@@ -7,21 +7,21 @@ CODE TEMPLATE:
 
 
 if (Sonic is approaching enemy) {
-    jump over enemy
+    jump over enemy;
 } else {
-    get hit by enemy
+    get hit by enemy;
 }
 
-if (Sonic loses his rings) {
-    recollect rings before they disappear
+if (Sonic gets hit) {
+    recollect rings before they disappear;
 } else {
-    lose all your rings
+    lose all your rings;
 }
 
 if (Sonic is underwater) {
-    collect an air bubble every 30 seconds
+    collect an air bubble every 30 seconds;
 } else {
-    drown
+    drown;
 }
 
 
