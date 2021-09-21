@@ -2,26 +2,26 @@ CODE TEMPLATE:
 //This is a single line comment (notes that won't be read as instructions to the computer).
 //Different syntax is used for comments depending on the language.
 
-//CHANGE ME: Add the title of your game
-//CHANGE ME: Add your name
+//CHANGE ME: Game Example - Sonic the Hedgehog
+//Jalin Johnson
 
 
-if (CHANGE ME: condition # 1) {
-    //Add event below
+if (Sonic is approching enemy) {
+    jump over enemy
 } else {
-    //Add event below
+    get hit by enemy
 }
 
-if (CHANGE ME: condition # 2) {
-    //Add event below
+if (Sonic loses his rings) {
+    recollect rings before they disappear
 } else {
-    //Add event below
+    lose all your rings
 }
 
-if (CHANGE ME: condition # 3) {
-    //Add event below
+if (Sonic is underwater) {
+    collect an air bubble every 30 seconds
 } else {
-    //Add event below
+    drown
 }
 
 
