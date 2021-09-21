@@ -2,11 +2,11 @@ CODE TEMPLATE:
 //This is a single line comment (notes that won't be read as instructions to the computer).
 //Different syntax is used for comments depending on the language.
 
-//CHANGE ME: Game Example - Sonic the Hedgehog
+//Game Example - Sonic the Hedgehog
 //Jalin Johnson
 
 
-if (Sonic is approching enemy) {
+if (Sonic is approaching enemy) {
     jump over enemy
 } else {
     get hit by enemy
